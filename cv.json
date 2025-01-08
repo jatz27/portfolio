@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "name": "Julio Atz",
+    "label": "Software Engineer | Quality Assurance Engineer",
+    "image": "https://i.postimg.cc/d12mywTB/Clipped-image-20231210-11281687687.png",
+    "email": "jatz93@outlook.com",
+    "phone": "+50249805583",
+    "url": "",
+    "summary": "Analista y desarrollador de pruebas automatizadas, actualmente trabajo como ingeniero de aseguramiento de la calidad. He trabajo como desarrollador web full stack.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guatemala",
+      "countryCode": "GT",
+      "region": "Guatemala"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "atzjulio",
+        "url": "https://www.instagram.com/atzjulio"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Julio Atz",
+        "url": "https://www.linkedin.com/in/jmfatzlopez"
+      },
+      {
+        "network": "GitHub",
+        "username": "jatz27",
+        "url": "https://github.com/jatz27"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "G&T Continental",
+      "position": "Ingeniero de aseguramiento de la calidad",
+      "url": "https://www.gtc.com.gt/",
+      "startDate": "2023-05-09",
+      "endDate": null,
+      "summary": "Inspección de código, comunicación de endpoints, administración de base de datos y diseño web. Desarrollo de pruebas automatizadas con HTML, CSS, TS, JS, SQL Y JAVA (SELENIUM)",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "SAT",
+      "position": "Analista y desarrollar",
+      "url": "https://portal.sat.gob.gt/portal/",
+      "startDate": "2021-02-12",
+      "endDate": "2022-01-02",
+      "summary": "Desarrollo de sistema de indicadores de comportamiento tributario tilizando las tecnologías: Oracle DB, Spring Boot, Maven, Primefaces, Apache TomCat, Microservicios.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Mariano Galvez",
+      "url": "https://institution.com/",
+      "area": "Ingeniero en Sistamas de la Información",
+      "studyType": "Bachelor",
+      "startDate": "2014-01-01",
+      "endDate": "2019-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Colegio CCEVSA",
+      "url": "https://institution.com/",
+      "area": "Bachellerato en Computación",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2012-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "SQLServer",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ambiente de desarrollo",
+      "isActive": false,
+      "description": "Configuración de ambiente de desarrollo para el proyectos",
+      "highlights": [
+        "Neovim",
+        "PWSH",
+        "Terminal"
+      ],
+      "url": "https://github.com/jatz27/dotfiles.config"
+    }
+  ]
+}
