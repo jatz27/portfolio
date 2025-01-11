@@ -15,5 +15,8 @@
     "hotkeypad": "^0.1.1",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
