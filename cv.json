@@ -46,7 +46,7 @@
     },
     {
       "name": "SAT",
-      "position": "Analista y desarrollar",
+      "position": "Analista y desarrollador",
       "url": "https://portal.sat.gob.gt/portal/",
       "startDate": "2021-02-12",
       "endDate": "2022-01-02",
@@ -74,9 +74,9 @@
       "institution": "Universidad Mariano Galvez",
       "url": "https://institution.com/",
       "area": "Ingeniero en Sistamas de la Información",
-      "studyType": "Bachelor",
-      "startDate": "2014-01-01",
-      "endDate": "2019-01-01",
+      "studyType": "Ingeniero",
+      "startDate": "2013-01-01",
+      "endDate": "2018-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -87,8 +87,8 @@
       "url": "https://institution.com/",
       "area": "Bachellerato en Computación",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2012-01-01",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
