@@ -159,6 +159,16 @@
       ]
     },
     {
+      "name": "Java",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -250,6 +260,17 @@
         "Terminal"
       ],
       "url": "https://github.com/jatz27/dotfiles.config"
+    },
+    {
+      "name": "Proyecto portafolio web y CV",
+      "isActive": false,
+      "description": "Proyecto dessarollado en Astro configurado desde un json para proveer toda la infomación necesaria para el CV y el portafolio web",
+      "highlights": [
+        "Astro",
+        "JavaScript",
+        "JSON"
+      ],
+      "url": "https://github.com/jatz27/portfolio"
     }
   ]
 }
