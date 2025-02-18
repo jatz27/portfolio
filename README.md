@@ -1,3 +1,3 @@
 # Portafolio
 
-Solo con modificar el cv.js podemos generar el cv/portafolio impremible.
+Solo con modificar el cv.js podemos generar el cv/portafolio imprimible y subido en una github page.
