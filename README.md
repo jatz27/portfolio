@@ -1,3 +1,6 @@
 # Portafolio
 
-Solo con modificar el cv.js podemos generar el cv/portafolio impremible.
+[![[Portafolio]](https://private-user-images.githubusercontent.com/11084039/416959107-ce610584-0110-4353-a5fc-b2b9711548be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA1NDA5NTMsIm5iZiI6MTc0MDU0MDY1MywicGF0aCI6Ii8xMTA4NDAzOS80MTY5NTkxMDctY2U2MTA1ODQtMDExMC00MzUzLWE1ZmMtYjJiOTcxMTU0OGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI2VDAzMzA1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmMDg1OTIxMjBhNGZjZmQ2NjJkY2I4MmJlZTRkMTI3MzRkZTI3MjJlYWQyOWNhN2Y4YzQ1YjRhMzQ3YjcxMjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.84pjynI-5G_6Eq8nS0AqkSqn_VoATuyIjwSe2YHyDa0)](https://jatz27.github.io/portfolio/)
+
+Solo con modificar el cv.js podemos generar el cv/portafolio impremible, desarrolaldo en astro y desplegado en github pages.<br>
+[Portafolio en girhub pages.](https://jatz27.github.io/portfolio/)
