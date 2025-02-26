@@ -39,7 +39,7 @@
       "url": "https://www.gtc.com.gt/",
       "startDate": "2023-05-09",
       "endDate": null,
-      "summary": "Inspección de código, comunicación de endpoints, administración de base de datos y diseño web. En el area de aseguramiento de la calidad realice pruebas y el lazansamiento los siguientes proyectos apple pay y onboardingTC, actualmente me encuentro el pryecto de miegración del core bancario demoninado DRACO reliazando pruebas integracles, funcionales y no funcionaciles. Adicional me cuentro capacitandome en el equipo desarrollo de pruebas automatizadas con HTML, CSS, TS, JS, SQL, JAVA (SELENIUM), TestNG y Angular.",
+      "summary": "Inspección de código, comunicación de endpoints, administración de base de datos y diseño web. En el área de aseguramiento de la calidad realicé pruebas y el lanzamiento de los siguientes proyectos: Apple Pay y onboardingTC. Actualmente me encuentro en el proyecto de migración del core bancario denominado DRACO, realizando pruebas integrales, funcionales y no funcionales. Adicionalmente, me encuentro capacitándome en el desarrollo de pruebas automatizadas con HTML, CSS, TS, JS, SQL, JAVA (SELENIUM), TestNG y Angular.",
       "highlights": [
         "Started the company"
       ]
@@ -50,7 +50,7 @@
       "url": "https://portal.sat.gob.gt/portal/",
       "startDate": "2021-02-12",
       "endDate": "2022-01-02",
-      "summary": "Desarrollo de sistema de indicadores de comportamiento tributario utilizando las tecnologías: Oracle DB, Spring Boot, Maven, Primefaces, Apache TomCat, Microservicios. Este desarrollo se utilizo para segmentar cada tipo de contribueyente para tener visibildiad de donde provienen sus ingresos y gastos.",
+      "summary": "Desarrollo de sistema de indicadores de comportamiento tributario utilizando las tecnologías: Oracle DB, Spring Boot, Maven, Primefaces, Apache Tomcat, Microservicios. Este desarrollo se utilizó para segmentar cada tipo de contribuyente y tener visibilidad de dónde provienen sus ingresos y gastos.",
       "highlights": [
         "Started the company"
       ]
@@ -85,7 +85,7 @@
     {
       "institution": "Colegio CCEVSA",
       "url": "https://institution.com/",
-      "area": "Bachellerato en Computación",
+      "area": "Bachillerato en Computación",
       "studyType": "Bachelor",
       "startDate": "2010-01-01",
       "endDate": "2011-01-01",
