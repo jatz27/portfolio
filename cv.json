@@ -39,7 +39,7 @@
       "url": "https://www.gtc.com.gt/",
       "startDate": "2025-04-22",
       "endDate": null,
-      "summary": "Desarrollo y analices de pruebas automatizadas para todos los aplicativos del banco G&T Continental para el ambiente de QA siendo ejecutadas desde Azure DevOps, para que esten disponibles los tests de integración y funcionales. Adicionalmente, el uso de un servicio de integración continua para la automatización de la construcción de las aplicaciones, que se encarga de ejecutar los tests de integración y funcionales, y de generar una imagen de Docker que se puede utilizar para desplegar las aplicaciones en Azure DevOps, con las tecnologias con HTML, CSS, TS, JS, SQL, JAVA (SELENIUM), TestNG,Angular, Appium (GTCApp), Docker y K6.",
+      "summary": "Desarrollo y analicis de pruebas automatizadas para todos los aplicativos del banco G&T Continental para el ambiente de QA siendo ejecutadas desde Azure DevOps, para que esten disponibles los test de integración y funcionales. Adicionalmente, el uso de un servicio de integración continua para la automatización de la construcción de las aplicaciones, que se encarga de ejecutar los test de integración y funcionales; generar una imagen de Docker que se puede utilizar para desplegar las aplicaciones en Azure DevOps, con las tecnologias de HTML, CSS, TS, JS, SQL, JAVA (SELENIUM), TestNG, Angular, Appium (GTCApp), Docker y K6.",
       "highlights": [
         "Started the company"
       ]
