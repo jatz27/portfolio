@@ -237,6 +237,36 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Docker",
+      "level": "Basico",
+      "keywords": [
+        "Conenedores",
+        "DevOps",
+        "Backend",
+        ""
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Basico",
+      "keywords": [
+        "Automatizacion",
+        "Web",
+        "Frontend",
+        ""
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Basico",
+      "keywords": [
+        "Frontend",
+        "JavaScript Library",
+        "UI",
+        ""
+      ]
     }
   ],
   "languages": [
